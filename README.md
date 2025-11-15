@@ -1,0 +1,2 @@
+# Food-delivery-app
+This is a full-stack MERN project that manages online food delivery data using MongoDB, Express, React, and Node.js. It handles restaurants, menus, orders, deliveries, and feedback with big-data simulation. The system uses MongoDB Aggregation Pipelines to analyze best-selling dishes, delivery performance, and customer trends
